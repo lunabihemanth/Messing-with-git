@@ -1,0 +1,6 @@
+[submodule "repos"]
+	path = repos
+	url = https://github.com/lunabihemanth/learning-git-2.git
+[submodule "learning-git-2"]
+	path = learning-git-2
+	url = https://github.com/lunabihemanth/learning-git-2.git
